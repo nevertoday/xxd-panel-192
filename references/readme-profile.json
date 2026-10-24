@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 192｜Limited-colour Vintage Graphic Spot: reduces a photo to a few of its most recognisable structures and redraws them as one small graphic spot — simple silhouettes, geometric colour blocks, a few carved lines and slight overlaps — placed low, off-centre or against an edge in wide negative space with almost no surrounding scene. A kraft, oat or warm off-white paper ground carries a muted, slightly vintage main colour taken from the photo plus one small warmer accent, two to four colour families in all, with light paper fibre, screen-print and printmaking grain and slight mis-registration. Text is tiny, widely spaced and placed in the whitespace or a corner. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-192 or asks for limited-palette, screen-print style minimal graphic posters from a photo.",
+  "short_description": "复古限色图形小品：把照片压成一枚剪影色块小图形，二到四色复古限色，纸感丝网印刷，大片留白",
+  "zh-CN": {
+    "name": "复古限色图形小品",
+    "tagline": "把照片压成一枚剪影色块小图形，用二到四种复古限色印在纸上。",
+    "look": "只留下照片里少量最有辨识度的结构，用简洁剪影、几何色块、局部刻线和少量叠压概括成一枚小图形，落在中部偏下、偏心或贴边的位置，周围几乎不画环境，留出大片空白。底色是牛皮纸米色、燕麦色或暖灰米白，主体用一组从照片里取来、略带复古感却干净的灰调主色，再配一小块更暖的强调色，总共两到四个色系。表面有轻微纸纤维、丝网印刷和版画颗粒，套色略有错位，边缘带一点手工误差。文字很小、字距宽松，安静地落在留白或角落。",
+    "traits": ["小图形锚点", "复古限色", "剪影色块", "丝网版画感", "大片留白"],
+    "good": [
+      "剪影清楚的单一主体：一只鸟、一把椅子、一棵树、一个撑伞的人",
+      "有一处明显暖色的照片：红色的门、橙色的灯、黄色雨衣",
+      "想做独立艺术海报、书封或展览小海报的照片"
+    ],
+    "poor": [
+      "多个焦点并重的场景：合影、热闹街市、满桌菜",
+      "依赖细腻质感和写实细节的照片：人像特写、珠宝、精密产品",
+      "想要满版拼贴、光滑矢量或荧光鲜艳色彩的需求"
+    ]
+  },
+  "en": {
+    "name": "Limited-colour Vintage Graphic Spot",
+    "tagline": "Compresses a photo into one small silhouette graphic printed on paper in two to four vintage colours.",
+    "look": "Only a few of the most recognisable structures in your photo are kept and summed up as one small graphic of simple silhouettes, geometric colour blocks, a few carved lines and slight overlaps, set low, off-centre or against an edge, with almost no surrounding scene and plenty of empty space. The ground is kraft beige, oat or warm off-white; the subject uses a muted main colour from the photo with a slightly vintage but clean feel, plus one small, warmer accent, two to four colour families in all. The surface shows light paper fibre, screen-print and printmaking grain, slightly mis-registered colours and a little hand-made wobble at the edges. Text is very small and widely spaced, sitting quietly in the whitespace or a corner.",
+    "traits": ["Small graphic anchor", "Vintage limited palette", "Silhouette blocks", "Screen-print feel", "Wide whitespace"],
+    "good": [
+      "A single subject with a clear silhouette: a bird, a chair, a tree, a person under an umbrella",
+      "Photos with one strong warm spot: a red door, an orange lamp, a yellow raincoat",
+      "Photos you want as an independent art poster, book cover or small exhibition poster"
+    ],
+    "poor": [
+      "Scenes with several equal focal points: group photos, busy markets, a table full of dishes",
+      "Photos that depend on fine texture and realistic detail: close-up portraits, jewellery, precision products",
+      "Requests for full-frame collage, smooth vector or fluorescent colours"
+    ]
+  },
+  "ja": {
+    "name": "限定色のレトロ図形小品",
+    "tagline": "写真をシルエットと色面の小さな図形にまとめ、二から四色のレトロな限定色で紙に刷ります。",
+    "look": "写真の中でいちばん見分けやすい構造だけを少し残し、シンプルなシルエット、幾何学的な色面、部分的な彫り線、わずかな重なりで小さな図形にまとめます。置き場所は中央よりやや下、中心から外した位置、または端に寄せた位置で、周りの環境はほとんど描かず、大きな余白をとります。地はクラフト紙のベージュ、オートミール色、温かいグレーがかった白で、主役には写真から取った少しレトロで澄んだくすみ色を使い、さらに暖かい差し色を小さく一つ加え、全体で二から四の色系統に収めます。表面には紙の繊維、シルクスクリーンや版画の粒子がうっすら残り、版ずれと手作業らしい縁の揺れがあります。文字はごく小さく字間を広くとり、余白や隅に静かに置きます。",
+    "traits": ["小さな図形の要", "レトロな限定色", "シルエットの色面", "シルクスクリーン感", "広い余白"],
+    "good": [
+      "シルエットがはっきりした単一の主役：鳥、椅子、一本の木、傘をさす人",
+      "目立つ暖色が一か所ある写真：赤い扉、橙色の灯り、黄色いレインコート",
+      "インディーのアートポスター、本の表紙、小さな展覧会ポスターにしたい写真"
+    ],
+    "poor": [
+      "見どころが同じ強さで複数ある場面：集合写真、賑やかな市場、料理の並んだ食卓",
+      "繊細な質感や写実的な細部が大切な写真：顔のアップ、宝飾品、精密な製品",
+      "全面のコラージュ、滑らかなベクター、蛍光色を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "제한된 색의 빈티지 그래픽 소품",
+    "tagline": "사진을 실루엣과 색면의 작은 그래픽으로 줄여 두 가지에서 네 가지 빈티지 색으로 종이에 찍어 냅니다.",
+    "look": "사진에서 가장 알아보기 쉬운 구조만 조금 남겨 단순한 실루엣, 기하 색면, 부분적인 새김선, 약간의 겹침으로 작은 그래픽 하나로 정리합니다. 자리는 가운데보다 조금 아래, 중심에서 비켜난 곳, 또는 가장자리이며, 주변 환경은 거의 그리지 않고 넓은 여백을 둡니다. 바탕은 크라프트지 베이지, 귀리색, 따뜻한 회백색이고, 주인공에는 사진에서 가져온 약간 빈티지하지만 맑은 저채도 주색을 쓰고 더 따뜻한 포인트 색을 작게 하나 더해 모두 두 가지에서 네 가지 색 계열로 맞춥니다. 표면에는 옅은 종이 섬유, 실크스크린과 판화의 입자, 살짝 어긋난 색판, 손작업 같은 가장자리 흔들림이 있습니다. 글자는 아주 작고 자간을 넓게 두어 여백이나 모서리에 조용히 놓습니다.",
+    "traits": ["작은 그래픽 중심", "빈티지 제한 색", "실루엣 색면", "실크스크린 느낌", "넓은 여백"],
+    "good": [
+      "실루엣이 분명한 하나의 주인공: 새, 의자, 나무 한 그루, 우산 쓴 사람",
+      "눈에 띄는 따뜻한 색이 한 곳 있는 사진: 빨간 문, 주황 조명, 노란 우비",
+      "독립 아트 포스터, 책 표지, 작은 전시 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "초점이 여러 개로 똑같이 중요한 장면: 단체 사진, 북적이는 시장, 음식이 가득한 식탁",
+      "섬세한 질감과 사실적인 디테일이 중요한 사진: 인물 클로즈업, 보석, 정밀 제품",
+      "꽉 찬 콜라주, 매끈한 벡터, 형광색을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم صغير بألوان قديمة محدودة",
+    "tagline": "يختزل الصورة في رسم صغير من ظلال وكتل لونية، مطبوع على الورق بلونين إلى أربعة ألوان عتيقة.",
+    "look": "لا يبقى من صورتك إلا قليل من أوضح بُناها، تُلخَّص في رسم صغير واحد من ظلال بسيطة وكتل لونية هندسية وبعض الخطوط المحفورة وتراكبات خفيفة، يوضع منخفضاً أو بعيداً عن المركز أو ملاصقاً لحافة، من دون محيط تقريباً ومع فراغ كثير. الأرضية بيج ورق الكرافت أو لون الشوفان أو أبيض رمادي دافئ؛ ويأخذ العنصر لوناً رئيسياً خافتاً من الصورة فيه مسحة عتيقة لكنه نظيف، مع لون إبراز صغير أدفأ، فلا تتجاوز الألوان أربع عائلات. يظهر على السطح شيء من ألياف الورق وحبيبات الطباعة الحريرية والحفر، وانزياح طفيف في الألوان، وارتعاش يدوي بسيط عند الحواف. النص صغير جداً متباعد الحروف، يستقر بهدوء في الفراغ أو في إحدى الزوايا.",
+    "traits": ["رسم صغير مركزي", "ألوان عتيقة محدودة", "كتل ظلية", "طابع الطباعة الحريرية", "فراغ واسع"],
+    "good": [
+      "عنصر واحد واضح الظل: طائر، كرسي، شجرة، شخص تحت مظلة",
+      "صور فيها بقعة دافئة واحدة قوية: باب أحمر، مصباح برتقالي، معطف مطر أصفر",
+      "صور تريدها ملصقاً فنياً مستقلاً أو غلاف كتاب أو ملصق معرض صغير"
+    ],
+    "poor": [
+      "مشاهد فيها عدة نقاط تركيز متساوية: الصور الجماعية، الأسواق المزدحمة، مائدة مليئة بالأطباق",
+      "صور تعتمد على الملمس الدقيق والتفاصيل الواقعية: الصور الشخصية القريبة، المجوهرات، المنتجات الدقيقة",
+      "طلب كولاج يملأ الإطار أو رسم متجهي ناعم أو ألوان فسفورية"
+    ]
+  }
+}
